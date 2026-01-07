@@ -16,7 +16,6 @@ A comprehensive data analysis project investigating the relationship between nat
 - [Key Findings](#key-findings)
 - [Technologies](#technologies)
 - [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
 
