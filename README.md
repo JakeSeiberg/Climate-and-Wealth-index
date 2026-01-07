@@ -82,12 +82,6 @@ Combines economic prosperity with social development indicators:
 pip install pandas numpy matplotlib seaborn scipy wbgapi
 ```
 
-Or use the requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Clone the Repository
 
 ```bash
